@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- '4.4'
+script: bash ./deploy.sh
+env:
+  global:
+  - GH_REF: github.com/frogcat/layers.git
+  - secure: Y0UfzJt3JWraTO2qM5o/Oj1838plz83GhhhfXwJJFpBeJRGji1/leIyttsRz3P+SdmsLDLxr6C7ArqxrNDriKfnKVlceYJIkVKQv0G4RD5jWRdvo51m7R6IAVphTNFlN/75Cn03/J4TbeSjIoHAmIP4pKMRZa+OxygRCvDPNiCFymKhzjJkT+peMGXS3VoM7apfWgYRuDkMGNP/rlDApE3HYAV8ShhKHL7yt7nDTv4kA5ON/aRfIyQe/vK145lPt5SK+OF3B/TyDgrbuoulAGox9chI1/CmjwmokLRTso4S5tlWwcg9pEmmO9BkHWbafv4Td3G/KKNWjkjTpTm3j8yoRWU5z8YtDByrshjoxWx5DPwhwKWx1NRpEjAlIIJPf+ku/EuhTfGgseYZc4HhN/9i5S1Kk33xAs4nii5jOSM8+MjmtMO7+iyoJ/DAvWYHAnirbyuNMygf1Qq5VGsvHeydoa6CYGits8xLw5qtPYTzP6d7+UFbxLftUsan7vzo0ejBTZWbHqylJhuIy/uTIxeP8IR9P7OHcRpdWK33EtlfMkgBh1fpQ4XJUsaAsxPmIzqXQIavs8q7UA/FvGq+m4zupCauZIGFNd8a33YReB4JjvffTYV9Vz2QKJuI1q6BuMTgLGBHAaU9PQpwRuT63st3g4pXoKt2Rzj0Cv+sPUCM=

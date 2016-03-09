@@ -1,0 +1,23 @@
+{
+  "name": "layers",
+  "version": "1.0.0",
+  "description": "Extractor for gsi layers.txt",
+  "main": "main.js",
+  "scripts": {
+    "test": "bash deploy.sh",
+    "clean": "rm -fR out node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogcat/layers.git"
+  },
+  "author": "frogcat",
+  "license": "MIT",
+  "dependencies" : {
+     "request": "2.69.0"
+  },
+  "bugs": {
+    "url": "https://github.com/frogcat/layers/issues"
+  },
+  "homepage": "https://github.com/frogcat/layers#readme"
+}
