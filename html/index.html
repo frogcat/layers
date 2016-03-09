@@ -29,36 +29,31 @@ a {
   text-decoration: none;
 }
 
-a:before {
-  content: '日 ';
+a.unload:before {
+  content: '田 ';
 }
 
 a.layer:before {
   content: '口 ';
 }
 
-li.close a:before {
-  content: '田 ';
+li a.loaded:before {
+  content: '日 ';
 }
 
-#container>ul>li>a:before {
+li.close a:before {
   content: '田 ';
 }
 </style>
 <script>
   $(function() {
-    $("#container").on("click", "a", function() {
 
-      if ($(this).is(".layer"))
-        return true;
-      if ($(this).is(".loaded")) {
-        $(this).closest("li").toggleClass("close");
-        return false;
-      }
+    $("a").addClass("unload");
 
+    $("#container").on("click", "a.unload", function() {
       var ul = $("<ul/>").appendTo($(this).closest("li"));
       var url = $(this).attr("href");
-      $(this).addClass("loaded");
+      $(this).removeClass("unload").addClass("loaded");
       $.getJSON(url).then(function(json) {
         json.layers.forEach(function(layer) {
           var a = $("<a/>").text(layer.title || layer.id);
@@ -71,12 +66,18 @@ li.close a:before {
             });
           } else if (layer.src) {
             a.attr({
-              "href" : url.replace("0.txt", layer.src)
+              "href" : url.replace("0.txt", layer.src),
+              "class" : "unload"
             });
           }
           ul.append($("<li/>").append(a));
         });
       });
+      return false;
+    });
+
+    $("#container").on("click", "a.loaded", function() {
+      $(this).closest("li").toggleClass("close");
       return false;
     });
   });
