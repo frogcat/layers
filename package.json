@@ -4,7 +4,7 @@
   "description": "Extractor for gsi layers.txt",
   "main": "main.js",
   "scripts": {
-    "test": "bash deploy.sh",
+    "test": "bash test.sh",
     "clean": "rm -fR out node_modules"
   },
   "repository": {
@@ -14,7 +14,7 @@
   "author": "frogcat",
   "license": "MIT",
   "dependencies" : {
-     "request": "2.69.0"
+     "request": "*"
   },
   "bugs": {
     "url": "https://github.com/frogcat/layers/issues"
