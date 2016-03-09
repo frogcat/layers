@@ -60,7 +60,7 @@ li.close a:before {
       var url = $(this).attr("href");
       $(this).addClass("loaded");
       $.getJSON(url).then(function(json) {
-        (json.layers || (json.forEach ? json : [])).forEach(function(layer) {
+        json.layers.forEach(function(layer) {
           var a = $("<a/>").text(layer.title || layer.id);
           if (layer.id) {
             a.attr({
@@ -69,9 +69,9 @@ li.close a:before {
               "target" : "_blank",
               "title" : JSON.stringify(layer, null, "  ")
             });
-          } else if (layer.entries) {
+          } else if (layer.src) {
             a.attr({
-              "href" : url.replace("0.txt", layer.entries.replace("./", ""))
+              "href" : url.replace("0.txt", layer.src)
             });
           }
           ul.append($("<li/>").append(a));
