@@ -12,7 +12,9 @@ if (!dst || !src)
 function solo(json) {
   (json.layers || json.entries || []).forEach(solo);
   if (json.id)
-    fs.writeFileSync(dst + '/' + json.id + ".txt", JSON.stringify(json, null, '  '));
+    fs.writeFileSync(dst + '/' + json.id + ".txt", JSON.stringify({
+      layers : [ json ]
+    }, null, '  '));
 }
 
 function tree(json, dir) {
@@ -23,7 +25,8 @@ function tree(json, dir) {
       var child = dir + '/' + index;
       fs.mkdirSync(child);
       tree(v.entries, child);
-      v.entries = "./" + index + "/0.txt";
+      v.src = index + "/0.txt";
+      delete v.entries;
     }
   });
   fs.writeFileSync(dir + '/0.txt', JSON.stringify(json, null, '  '));
