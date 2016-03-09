@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>layers</title>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css" />
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<style>
+body {
+  font-family: helvetica;
+}
+
+#container {
+  margin: 20px;
+}
+
+ul {
+  margin: 0 0 0 1em;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  font-size: 9pt;
+}
+
+li[data-href] {
+  font-weight: bold;
+}
+</style>
+<script>
+  $(function() {
+    $("ul").on("click", "a", function() {
+
+      if ($(this).is(".layer"))
+        return true;
+      if ($(this).is(".loaded")) {
+        $(this.closest(".li").toggleClass("close"));
+        return false;
+      }
+
+      var ul = $("<ul/>").appendTo($(this).closest("li"));
+      var url = $(this).attr("href");
+      $(this).addClass("loaded");
+      $.getJSON(url).then(function(json) {
+        (json.layers || (json.forEach ? json : [])).forEach(function(layer) {
+          var a = $("<a/>").text(layer.title || layer.id);
+          if (layer.id) {
+            a.attr({
+              "href" : "http://frogcat.github.io/layers/" + layer.id + ".txt",
+              "class" : "layer",
+              "target" : "_blank"
+            });
+          } else if (layer.entries) {
+            a.attr({
+              "href" : url.replace("0.txt", layer.entries.replace("./", ""))
+            });
+          }
+          ul.append($("<li/>").append(a));
+        });
+      });
+      return false;
+    });
+  });
+</script>
+</head>
+<body>
+  <div id="container">
+
+    <ul>
+      <li><a href="http://frogcat.github.io/layers/layers0/0.txt">#0</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers1/0.txt">#1</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers2/0.txt">#2</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers3/0.txt">#3</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers4/0.txt">#4</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers_experimental/0.txt">#exp</a></li>
+    </ul>
+
+  </div>
+</body>
+</html>
+
