@@ -20,22 +20,39 @@ ul {
   list-style: none;
 }
 
-li {
-  font-size: 9pt;
+li.close ul {
+  display: none;
 }
 
-li[data-href] {
-  font-weight: bold;
+a {
+  font-size: 9pt;
+  text-decoration: none;
+}
+
+a:before {
+  content: '日 ';
+}
+
+a.layer:before {
+  content: '口 ';
+}
+
+li.close a:before {
+  content: '田 ';
+}
+
+#container>ul>li>a:before {
+  content: '田 ';
 }
 </style>
 <script>
   $(function() {
-    $("ul").on("click", "a", function() {
+    $("#container").on("click", "a", function() {
 
       if ($(this).is(".layer"))
         return true;
       if ($(this).is(".loaded")) {
-        $(this.closest(".li").toggleClass("close"));
+        $(this).closest("li").toggleClass("close");
         return false;
       }
 
@@ -49,7 +66,8 @@ li[data-href] {
             a.attr({
               "href" : "http://frogcat.github.io/layers/" + layer.id + ".txt",
               "class" : "layer",
-              "target" : "_blank"
+              "target" : "_blank",
+              "title" : JSON.stringify(layer, null, "  ")
             });
           } else if (layer.entries) {
             a.attr({
