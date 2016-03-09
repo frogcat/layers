@@ -8,6 +8,7 @@ mkdir -p out;
 bash test.sh
 
 cp -fR html/* out
+touch out/.nojekyll
 
 # go to the out directory and create a *new* Git repo
 cd out
