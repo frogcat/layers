@@ -24,7 +24,9 @@ function tree(json, dir) {
       index++;
       var child = dir + '/' + index;
       fs.mkdirSync(child);
-      tree(v.entries, child);
+      tree({
+        layers : v.entries
+      }, child);
       v.src = index + "/0.txt";
       delete v.entries;
     }
