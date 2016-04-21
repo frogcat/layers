@@ -1,0 +1,48 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "antarctic_0",
+      "title": "南極の地理空間情報データ",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "antarctic_2500",
+      "title": "1: 2,500　南極地形図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic2500.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "antarctic_25000",
+      "title": "1:25,000　南極地形図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic25000.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "antarctic_50000",
+      "title": "1:50,000　南極地形図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic50000.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    }
+  ]
+}

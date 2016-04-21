@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "naname150529kuchinoerabu",
+      "title": "斜め写真（2015/5/29）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1505kuchinoerabu/naname150529kuchinoerabu.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "口永良部島・斜め写真（5/29）<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

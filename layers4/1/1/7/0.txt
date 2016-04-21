@@ -1,0 +1,172 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "epicenter_0703noto",
+      "title": "地殻変動情報_震央位置",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/epicenter.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "danso_0703noto",
+      "title": "地殻変動情報_推定震源断層",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/danso.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "sar710_0703noto",
+      "title": "地殻変動情報_SAR干渉画像",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/sar710.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "sar2_0703noto",
+      "title": "地殻変動情報_地殻変動差分画像",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/sar2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "photo_0703noto",
+      "title": "写真画像情報_空中写真撮影位置",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/photo.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "noto1_0703noto",
+      "title": "写真画像情報_道下地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "noto2_0703noto",
+      "title": "写真画像情報_清水地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "noto3_0703noto",
+      "title": "写真画像情報_本市地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto3.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "noto4_0703noto",
+      "title": "写真画像情報_鹿磯地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto4.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "noto5_0703noto",
+      "title": "写真画像情報_深見地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto5.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "handoku_e_0703noto",
+      "title": "判読災害情報_空中写真判読範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/handoku_e.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "houkai_0703noto",
+      "title": "判読災害情報_斜面崩壊",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/houkai.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "douro_sonkai_0703noto",
+      "title": "判読災害情報_道路損壊",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/douro_sonkai.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "ekijyo_0703noto",
+      "title": "判読災害情報_液状化",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/ekijyo.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

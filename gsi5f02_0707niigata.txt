@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "gsi5f02_0707niigata",
+      "title": "緊急現地調査_被害状況（速報）（7/18調査）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/gsi5f02.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

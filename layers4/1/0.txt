@@ -1,0 +1,25 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "風水害",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "火山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    }
+  ]
+}

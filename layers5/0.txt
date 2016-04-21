@@ -1,0 +1,12 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "他機関の情報",
+      "iconUrl": "",
+      "open": false,
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

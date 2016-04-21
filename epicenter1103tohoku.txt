@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "epicenter1103tohoku",
+      "title": "震央",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/epicenter.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">空中写真 - 震央</div><div class=\"gsi_layerinfo_kaisetu\">＊電子基準点で検出した地殻変動情報は<a href='http://www.gsi.go.jp/chibankansi/chikakukansi_tohoku.html' target='_blank'>こちら</a><br/>＊電子基準点データ解析による震源断層モデル(暫定)は<a href='http://www.gsi.go.jp/cais/topic110313-index.html' target='_blank'>こちら</a><br/>＊電子基準点データ解析による滑り分布モデル(地震時，暫定)は<a href='http://www.gsi.go.jp/cais/topic110314.2-index.html' target='_blank'>こちら</a><br/>＊電子基準点データ解析による滑り分布モデル(地震後，暫定)は<a href='http://www.gsi.go.jp/cais/topic110314-index.html' target='_blank'>こちら</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

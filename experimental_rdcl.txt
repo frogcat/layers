@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "experimental_rdcl",
+      "title": "地図情報（道路中心線）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 16,
+      "maxZoom": 18,
+      "maxNativeZoom": 16,
+      "html": "ズーム16～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+    }
+  ]
+}

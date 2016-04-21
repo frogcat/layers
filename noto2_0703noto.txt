@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "noto2_0703noto",
+      "title": "写真画像情報_清水地区の空中写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/noto2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "平成19年3月26日撮影<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

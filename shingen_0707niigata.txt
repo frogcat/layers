@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "shingen_0707niigata",
+      "title": "震源",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/shingen.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "本震(7月16日10時13分)及び余震(7月16日15時37分)の位置を気象庁発表資料に基づき表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

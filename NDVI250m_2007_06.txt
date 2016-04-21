@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "NDVI250m_2007_06",
+      "title": "6月",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_06/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 3,
+      "maxZoom": 10,
+      "legendUrl": "http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/legend_ndvi250m.pdf",
+      "html": "<div class=\"gsi_layerinfo_title\">全国植生指標データ（250m）</div><div style=\"font-size:12px; margin: 2px\">(2007年6月)</div><div class=\"gsi_layerinfo_kaisetu\"></div><div style=\"font-size:13px; margin: 8px\" >国土地理院と東海大学との共同研究による。<BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi.html\">解説</a><BR/><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/ndvi-download.html\">データダウンロード</a><br></div><div style=\"font-size:13px; margin: 8px\" Align=\"right\">(c)国土地理院</div>"
+    }
+  ]
+}

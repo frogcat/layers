@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "douro_sonkai_0703noto",
+      "title": "判読災害情報_道路損壊",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/douro_sonkai.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

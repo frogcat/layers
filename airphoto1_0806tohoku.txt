@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "airphoto1_0806tohoku",
+      "title": "空中写真（土砂災害）_市野々原地区",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0806tohoku/airphoto1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

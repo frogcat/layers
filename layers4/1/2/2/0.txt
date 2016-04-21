@@ -1,0 +1,25 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "広島市内",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "丹波市市島地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "福知山市街地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    }
+  ]
+}

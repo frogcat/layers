@@ -1,0 +1,53 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "正射画像",
+      "iconUrl": "",
+      "toggleall": true,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "垂直写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "斜め写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "_ort20160414",
+      "title": "写真（2007年～）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/670.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">写真</div><div class=\"gsi_layerinfo_subtitle\">(最新（2007年～）)</div><a target=\"_blank\" href=\"http://maps.gsi.go.jp/development/ichiran.html#ort\">解説</a><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "_airphoto20160417",
+      "title": "簡易空中写真（2004年～）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/670.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">簡易空中写真（2004年～）</div><div class=\"gsi_layerinfo_kaisetu\"><div><a target=\"_blank\" href=\"http://www1.gsi.go.jp/geowww/Laser_HP/index.html\">航空レーザ測量</a>の点検用に撮影した写真をつなぎ合わせて、ウェブ地図として閲覧できるようにしたものです。</a></div></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "053naname1103tohoku",
+      "title": "千葉県銚子市",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/053.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真 - 千葉県銚子市</div><div class=\"gsi_layerinfo_kaisetu\"><img src='http://saigai.gsi.go.jp/20110311eqObliquePhoto/icon/mobile002.bmp' width='15' height='15'>は、平成24年4月1日に追加した南相馬市～いわき市沿岸の撮影画像です。<br/><br/><img src='http://saigai.gsi.go.jp/20110311eqObliquePhoto/icon/mobile001.bmp' width='15' height='15'>は、平成24年3月31日以前の撮影画像です。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

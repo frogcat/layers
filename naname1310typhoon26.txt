@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "naname1310typhoon26",
+      "title": "斜め写真（10/16）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1310typhoon26/naname1310typhoon26.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成25年台風第26・27号の大雨 - 斜め写真（10/16)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

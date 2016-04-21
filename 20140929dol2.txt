@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140929dol2",
+      "title": "航空機SAR画像（2014/9/29）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140929dol2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 航空機SAR画像(9/29)</div><div class=\"gsi_layerinfo_kaisetu\">航空機SAR画像(9/29)のレーダー照射方向は南から北方向</div>"
+    }
+  ]
+}

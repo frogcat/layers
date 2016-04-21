@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "suichoku1508sakurajima_400dpi_2006",
+      "title": "過去の垂直写真（2006年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1508sakurajima/suichoku1508sakurajima_400dpi_2006.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

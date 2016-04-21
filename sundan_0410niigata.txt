@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "sundan_0410niigata",
+      "title": "道路・鉄道の崩壊・亀裂・陥没等",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/sundan.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真により判読した道路・鉄道の崩壊・亀裂・陥没等の発生地。 崩落した土砂により埋没したものが含まれます。 空中写真で判読できない小規模な崩壊・亀裂・陥没等が表示されていない場合があります。 また一部地域については、現地緊急調査の結果も反映されています。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

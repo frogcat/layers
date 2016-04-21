@@ -1,0 +1,74 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "十勝岳",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "吾妻山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "浅間山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "箱根山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "御嶽山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "阿蘇山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "霧島山",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "桜島",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "口永良部島",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "9/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "西之島付近",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "10/0.txt"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "houkai_0703noto",
+      "title": "判読災害情報_斜面崩壊",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/houkai.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

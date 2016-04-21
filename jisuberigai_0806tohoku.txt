@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "jisuberigai_0806tohoku",
+      "title": "災害状況図_地すべり滑落崖",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0806tohoku/jisuberigai.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

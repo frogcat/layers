@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "jikizu_chijiki_f",
+      "title": "全磁力図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/jikizu_chijikif/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 4,
+      "maxZoom": 7,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">磁気図2010.0年値 - 全磁力図</div><div class=\"gsi_layerinfo_kaisetu\">2010年1月1日における、全磁力の分布を図に表したものです。<br/><br/>＜凡例＞<br/>黒線 ： 1000nTごと<br/>白線 ： 100nTごと</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

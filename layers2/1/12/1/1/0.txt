@@ -1,0 +1,40 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "jin201603",
+      "title": "3月更新",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/082.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/jinsoku2016/201603.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "jin201602",
+      "title": "2月更新",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/081.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/jinsoku2016/201602.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "jin201601",
+      "title": "1月更新",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/080.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/jinsoku2016/201601.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

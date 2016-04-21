@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "zk25000",
+      "title": "２万５千分1地形図郭",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/zk25000/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "maxZoom": 18,
+      "maxNativeZoom": 8,
+      "legendUrl": "",
+      "html": "２万５千分1地形図郭（ズーム10～18で表示）<br><a target=\"_blank\" href=\"http://www.gsi.go.jp/chizuhensyu/zukaku_ido_keido1.html\">多色刷の２万５千分１地形図の図郭</a>です。"
+    }
+  ]
+}

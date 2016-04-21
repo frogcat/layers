@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140704dol2",
+      "title": "2014/7/4（無人航空機（UAV）撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140704dol2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 14,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">（上載）地形判読図</div><div class=\"gsi_layerinfo_subtitle\">(2014.7.4(無人航空機(UAV)撮影))</div><div class=\"gsi_layerinfo_kaisetu\"><font color='red'>正射画像2014.7.4 と合わせてご覧下さい。</font></div>"
+    }
+  ]
+}

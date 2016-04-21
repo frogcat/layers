@@ -1,0 +1,32 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "写真判読",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "情報収集",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "災害前との比較",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "正射画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    }
+  ]
+}

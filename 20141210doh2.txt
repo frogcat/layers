@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20141210doh2",
+      "title": "2014/12/10",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20141210doh2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 17,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">（上載）地形判読図</div><div class=\"gsi_layerinfo_subtitle\">(2014.12.10)</div><div class=\"gsi_layerinfo_kaisetu\"><font color='red'>正射画像2014.12.10 と合わせてご覧下さい。</font></div>"
+    }
+  ]
+}

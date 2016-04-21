@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "nagaoka_0410niigata",
+      "title": "地上写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/nagaoka.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "現地緊急調査時に、撮影した現場の写真<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

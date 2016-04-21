@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "naname1411nagano",
+      "title": "斜め写真（11/24）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1411nagano/naname1411nagano.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">長野県北部地震 - 斜め写真(11/24)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

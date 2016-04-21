@@ -1,0 +1,79 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0417nanamel",
+      "title": "南阿蘇山王谷川周辺斜め写真（4/17撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0417nanamel/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0416nanamel",
+      "title": "南阿蘇河陽周辺斜め写真（4/16撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0416nanamel/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0415nanamel3",
+      "title": "熊本地区斜め写真（4/15午後撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0415nanamel3/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0415nanamel2",
+      "title": "益城地区斜め写真（4/15午後撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0415nanamel2/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0415nanamel",
+      "title": "益城地区斜め写真（4/15午前撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0415nanamel/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    }
+  ]
+}

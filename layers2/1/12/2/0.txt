@@ -1,0 +1,25 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "2016年更新情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2015年更新情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2014年更新情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    }
+  ]
+}

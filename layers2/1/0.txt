@@ -1,0 +1,188 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "relief",
+      "title": "色別標高図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 18,
+      "maxNativeZoom": 15,
+      "legendUrl": "http://portal.cyberjapan.jp/site/mapuse4/attension_relief.html",
+      "html": "<div class=\"gsi_layerinfo_title\">色別標高図</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "都市圏活断層図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "土地条件図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "沿岸海域土地条件図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "治水地形分類図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "swale",
+      "title": "明治期の低湿地",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/swale/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/SWALE_hanrei.pdf",
+      "html": "<div class=\"gsi_layerinfo_title\">明治期の低湿地</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/bousaichiri/lc_meiji.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "vbm",
+      "title": "火山基本図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vbm/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 17,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">火山基本図　<a target=\"_blank\" href=\"http://www.gsi.go.jp/bousaichiri/volcano-maps.html\">解説</a></div><form name=\"vbmlegend\"><select name=\"vbmselect\" ><option value=\"l_vbm_meakan\">雌阿寒岳</option><option value=\"l_vbm_tokachi\">十勝岳</option><option value=\"l_vbm_tarumae\">樽前山</option><option value=\"l_vbm_usu\">有珠山</option><option value=\"l_vbm_hokkaidokoma\">北海道駒ヶ岳</option><option value=\"l_vbm_esan\">恵山</option><option value=\"l_vbm_iwaki\">岩木山</option><option value=\"l_vbm_akitayake\">秋田焼山</option><option value=\"l_vbm_iwate\">岩手山</option><option value=\"l_vbm_kurikoma\">栗駒山</option><option value=\"l_vbm_akitakoma\">秋田駒ケ岳</option><option value=\"l_vbm_chokai\">鳥海山</option><option value=\"l_vbm_zao\">蔵王山</option><option value=\"l_vbm_azuma\">吾妻山</option><option value=\"l_vbm_adatara\">安達太良山</option><option value=\"l_vbm_bandai\">磐梯山</option><option value=\"l_vbm_nasu\">那須岳</option><option value=\"l_vbm_kusatsushirane\">草津白根山</option><option value=\"l_vbm_asama\">浅間山</option><option value=\"l_vbm_hakone\">箱根山</option><option value=\"l_vbm_fuji\">富士山</option><option value=\"l_vbm_higashiizu\">東伊豆単成火山群</option><option value=\"l_vbm_izuoshima\">伊豆大島</option><option value=\"l_vbm_miyake\">三宅島</option><option value=\"l_vbm_yakedake\">焼岳</option><option value=\"l_vbm_ontake\">御岳山</option><option value=\"l_vbm_tsurumi\">鶴見岳</option><option value=\"l_vbm_kujyu\">くじゅう連山</option><option value=\"l_vbm_aso\">阿蘇山</option><option value=\"l_vbm_unzen\">雲仙岳</option><option value=\"l_vbm_kirishima\">霧島山</option><option value=\"l_vbm_sakurajima\">桜島</option><option value=\"l_vbm_satsumatakesima\">薩摩竹島</option><option value=\"l_vbm_satsumaiojima\">薩摩硫黄島</option><option value=\"l_vbm_suwanosejima\">諏訪之瀬島</option></select><input type=\"button\" value=\"凡例表示\" onclick=\"window.open('http://cyberjapan.jp/legend/' + this.form.vbmselect.value + '.jpg');\" style=\"font-size:12px;\" /></form><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "vlcd",
+      "title": "火山土地条件図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vlcd/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 16,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">火山土地条件図　<a target=\"_blank\" href=\"http://www.gsi.go.jp/bousaichiri/volcano-maps.html\">解説</a></div><form name=\"vlcdlegend\"><select name=\"vlcdselect\" ><option value=\"l_vlcd_meakan\">雌阿寒岳・雄阿寒岳</option><option value=\"l_vlcd_2tkch\">十勝岳</option><option value=\"l_vlcd_10tarm\">樽前山</option><option value=\"l_vlcd_9usu\">有珠山</option><option value=\"l_vlcd_5hkkm\">北海道駒ヶ岳</option><option value=\"l_vlcd_00iwatesan\">岩手山</option><option value=\"l_vlcd_akitakomagatake\">秋田駒ケ岳</option><option value=\"kurikoma_D2_58_legend\">栗駒山</option><option value=\"l_vlcd_adatara\">安達太良山</option><option value=\"l_vlcd_11band\">磐梯山</option><option value=\"l_vlcd_3ksrn\">草津白根山</option><option value=\"yakiyama\">新潟焼山</option><option value=\"ontake_legend\">御嶽山</option><option value=\"l_vlcd_12fuji\">富士山</option><option value=\"l_vlcd_13izuo\">伊豆大島</option><option value=\"l_vlcd_6mykj\">三宅島</option><option value=\"l_vlcd_kuju\">くじゅう連山</option><option value=\"l_vlcd_4aso\">阿蘇山</option><option value=\"l_vlcd_7unzn\">雲仙岳</option><option value=\"l_vlcd_8krsm\">霧島山</option><option value=\"l_vlcd_1skrj\">桜島</option><option value=\"l_vlcd_satsumaiou\">薩摩硫黄島</option></select><input type=\"button\" value=\"凡例表示\" onclick=\"window.open('http://cyberjapan.jp/legend/' + this.form.vlcdselect.value + '.jpg');\" style=\"font-size:12px;\" /></form><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "日本の典型地形",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "宅地利用動向調査",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "lum200k",
+      "title": "20万分１土地利用図（1982～1983年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum200k/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 11,
+      "maxZoom": 14,
+      "legendUrl": "http://cyberjapan.jp/legend/lum200k_legend.jpg",
+      "html": "<div class=\"gsi_layerinfo_title\">20万分１土地利用図（1982～1983年）</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-200k.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "湖沼図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "全国植生指標データ（250m）",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "地球地図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "9/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "南極の地理空間情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "10/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "基盤地図情報の提供地域",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "11/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "更新情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "12/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "zk25000",
+      "title": "２万５千分1地形図郭",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/zk25000/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "maxZoom": 18,
+      "maxNativeZoom": 8,
+      "legendUrl": "",
+      "html": "２万５千分1地形図郭（ズーム10～18で表示）<br><a target=\"_blank\" href=\"http://www.gsi.go.jp/chizuhensyu/zukaku_ido_keido1.html\">多色刷の２万５千分１地形図の図郭</a>です。"
+    },
+    {
+      "type": "Layer",
+      "id": "chiikimesh",
+      "title": "地域メッシュ",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/chiikimesh/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 6,
+      "maxZoom": 18,
+      "maxNativeZoom": 14,
+      "legendUrl": "",
+      "html": "「統計に用いる標準地域メッシュおよび標準地域メッシュ・コード」（昭和48年７月12日行政管理庁告示第143号）における地域メッシュです。<br>第１次地域区画：ズーム6～9で表示<br>第２次地域区画：ズーム10～13で表示<br>第３次地域区画：ズーム14～18で表示<br>参考：<a target=\"_blank\" href=\"http://www.stat.go.jp/data/mesh/gaiyou.htm\">総務省統計局　地域メッシュ統計の概要</a>"
+    }
+  ]
+}

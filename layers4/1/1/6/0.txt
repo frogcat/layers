@@ -1,0 +1,124 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "shingen_0707niigata",
+      "title": "震源",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/shingen.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "本震(7月16日10時13分)及び余震(7月16日15時37分)の位置を気象庁発表資料に基づき表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "gsi5f02_0707niigata",
+      "title": "緊急現地調査_被害状況（速報）（7/18調査）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/gsi5f02.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "gsi5f01_0707niigata",
+      "title": "緊急現地調査_被害状況（速報）（7/17調査）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/gsi5f01.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "photo_point_0707niigata",
+      "title": "空中写真（7/19撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/photo_point.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "satueihani_0707niigata",
+      "title": "災害状況図_写真判読範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/satueihani.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "災害状況図は、<br>国土地理院撮影カラー空中写真(7月19日撮影、縮尺1/10,000)<br>国際航業(株)･(株)パスコ撮影カラー空中写真(7月18日撮影、縮尺1/6,000、一部の地域を使用)\n<br>国土地理院緊急現地調査結果(7月17日・18日実施)<br>に基づいて作成したもので、現在の状況とは異なっています。また、全ての災害情報は網羅していません。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "syamen_newnewnew_0707niigata",
+      "title": "災害状況図_斜面崩壊地",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/syamen_newnewnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により抽出した、斜面崩壊や地すべりなどにより生じた地形。地肌のむき出しになった崖地部分と、崩落した土砂が移動、堆積した範囲を表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ekijouka_newnewnew_0707niigata",
+      "title": "災害状況図_液状化の発生箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/ekijouka_newnewnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により抽出した、液状化と思われる地割れ、噴砂などが見られた箇所。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "kiretsu_new_0707niigata",
+      "title": "災害状況図_切土地・盛土地の被害箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/kiretsu_new.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により、亀裂、崩壊が生じている箇所を抽出。緊急現地調査の情報を加え、表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "douro_newnew_0707niigata",
+      "title": "災害状況図_道路・鉄道・河川堤防の被害箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/douro_newnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読より、損壊(陥没、亀裂、段差等)が生じている箇所を抽出。鉄道の変形も表示。緊急現地調査の情報を加え、表示。なお、高速自動車道・国道などの主要道路の被害箇所は、補修作業により軽微な被害の判読が可能となった。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "kaokutoukai_newnew_0707niigata",
+      "title": "災害状況図_建物の倒壊箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/kaokutoukai_newnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により、建物の倒壊が明瞭に確認された箇所。倒壊箇所は、大まかに表示したも ので個々の建物を示していない。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

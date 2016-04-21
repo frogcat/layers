@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "ryuiki_0410niigata",
+      "title": "流域界（山古志村付近）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/ryuiki.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "山古志村付近の河川の流域界です。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

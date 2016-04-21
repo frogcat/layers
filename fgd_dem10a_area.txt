@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "fgd_dem10a_area",
+      "title": "10mメッシュDEM（火山基本図）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_dem10a_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(10mメッシュDEM（火山基本図）)</div><div class=\"gsi_layerinfo_kaisetu\"><div>火山基本図の等高線データを基に作成した10mメッシュDEMの提供範囲</div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    }
+  ]
+}

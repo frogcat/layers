@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "sar710_0703noto",
+      "title": "地殻変動情報_SAR干渉画像",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0703noto/sar710.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

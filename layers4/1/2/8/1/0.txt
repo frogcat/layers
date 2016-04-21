@@ -1,0 +1,136 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "suichoku1307yamaguchi2B",
+      "title": "垂直写真（8/7 B）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/081.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/suichoku1307yamaguchi2B.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 垂直写真(8/7 B)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "suichoku1307yamaguchi2A",
+      "title": "垂直写真（8/7 A）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/081.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/suichoku1307yamaguchi2A.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 垂直写真(8/7 A)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "suichoku1307yamaguchi",
+      "title": "垂直写真（7/31）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/080.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/suichoku1307yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 垂直写真(7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "hisai1307yamaguchi2",
+      "title": "被災箇所（8/7）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/hisai1307yamaguchi2.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 被災箇所(8/7)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "hisai1307yamaguchi",
+      "title": "被災箇所（7/31）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/hisai1307yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 被災箇所(7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20130717dol2",
+      "title": "正射画像（8/7）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20130717dol2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射画像(8/7)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20130717dol",
+      "title": "正射画像（7/31）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20130717dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射画像(7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ortho130807yamaguchi",
+      "title": "正射画像_図郭版（8/7）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/ortho130807yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射画像_図郭版（8/7)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ortho130731yamaguchi",
+      "title": "正射画像_図郭版（7/31）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/ortho130731yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射画像_図郭版（7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "orthomap130807yamaguchi",
+      "title": "正射写真地図_図郭版（8/7）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/ortho-map130807yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射写真地図_図郭版（8/7)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "orthomap130731yamaguchi",
+      "title": "正射写真地図_図郭版（7/31）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/ortho-map130731yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 正射写真地図_図郭版（7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

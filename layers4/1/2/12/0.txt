@@ -1,0 +1,83 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20100718airphoto_1007chugoku",
+      "title": "空中写真_山陽小野田市（2010/07/18撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100718airphoto.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100719airphoto_1007chugoku",
+      "title": "空中写真_庄原市（2010/07/19撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100719airphoto.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100718orthophotoV1_1007chugoku",
+      "title": "正射写真図_山陽小野田市（2010/07/18撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100718orthophotoV1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100719orthophotoV1_1007chugoku",
+      "title": "正射写真図_庄原市（2010/07/19撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100719orthophotoV1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100718orthophotoV2_1007chugoku",
+      "title": "正射写真_山陽小野田市（2010/07/18撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100718orthophotoV2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100719orthophotoV2_1007chugoku",
+      "title": "正射写真_庄原市（2010/07/19撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100719orthophotoV2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "LayerGroup",
+      "title": "被災状況_庄原市",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_epicenter",
+      "title": "震央",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_epicenter/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_faultmodel",
+      "title": "震源断層モデル<br>北側：4/16（M7.3）南側：4/14（M6.5）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_faultmodel/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 3,
+      "maxZoom": 11,
+      "html": "電子基準点（GNSS連続観測点）で観測された地殻変動から推定した震源断層モデルです。<br>4月16日（M7.3）の<a target=\"_blank\" href=\"http://www.gsi.go.jp/common/000139798.pdf\">解説</a><br>4月14日（M6.5）の<a target=\"_blank\" href=\"http://www.gsi.go.jp/common/000139588.pdf\">解説</a>"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "電子基準点による地殻変動",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_handoku1",
+      "title": "土砂崩壊地分布図（4/16撮影分）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_handoku1/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 17,
+      "maxNativeZoom": 2,
+      "html": "<b>平成28年熊本地震・空から見た（航空写真判読による）土砂崩壊地分布図</b><br>１．この地図は国土地理院が緊急に撮影した航空写真（4月16日撮影）から、地震により生じた土砂崩壊地の分布を判読したものです。<br>現地踏査は実施しておらず、実際に崩壊のあった箇所でも把握できていない部分があります。<br>２．土砂崩壊地は、急傾斜地の崩壊、地すべり、土石流を1つの項目にまとめて表現しています。<br>３．土砂崩壊地（大）はおおむね1ヘクタール（サッカー場）以上、土砂崩壊地（小）はおおむね0.1ヘクタール（野球のダイヤモンド大）～1ヘクタールのものを表しています。<br>４．土砂崩壊地の中心付近を丸で表しており、土砂崩壊地の形状を表現しているわけではありません。<br>５．崩壊が連続的に発生しているものを複数箇所として示している場合があります。<br>６．崩壊の発生を確認して、表記しているものであり、保全対象との関係などから土砂災害ではないものも含まれる場合があります。<br>７．今後の地震活動、降雨等により、土砂崩壊地の箇所数が増加する可能性があります。<br>８．正射画像の表示範囲外に土砂崩壊地が表示されることがありますが、当該地域の航空写真は、垂直写真から確認できます。<br><br>平成28年4月18日作成"
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_jiware",
+      "title": "布田川断層帯周辺の地表の亀裂分布図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_jiware/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 17,
+      "maxNativeZoom": 2,
+      "html": "<b>空から見た（航空写真判読による）布田川断層帯周辺の地表の亀裂分布図</b><br><br>平成28年4月16日1時25分の地震（マグニチュード7.3）の発生後に、国土地理院が同日撮影した航空写真（西原（にしはら）地区）用いて、布田川（ふたがわ）断層帯周辺を中心に地震により生じたと推定される地表の亀裂を判読しました。<br>判読した亀裂は、今回の地震による断層のずれが地表に現れたもの、斜面の崩落等により生じたもの、地震動や液状化によって生じたもの等がありますが、現地踏査をしていないため区別していません。<br>益城町（ましきまち）や西原村（にしはらむら）付近では、都市圏活断層図「熊本」で示されている布田川断層帯の断層線付近に断続的に亀裂が確認でき、この活断層が活動したことが伺えます。また、益城町付近では、断層線から分岐して延びる亀裂も確認でき、都市圏活断層図では示されていない新たな活断層が存在している可能性があります。<br><br>（注）布田川断層帯周辺を中心に航空写真判読により確認できるものを抽出しており、現地で確認できるものを必ずしもすべて含んでおりません。また、より詳細な判読により、今後内容が更新されることがあります。<br><br>平成28年4月20日"
+    },
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0416uav",
+      "title": "UAV動画",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/082.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0416uav/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "html": ""
+    },
+    {
+      "type": "LayerGroup",
+      "title": "都市圏活断層図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "SAR解析結果",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "http://insarmap.gsi.go.jp/layers_txt/layers_alos2_eq_201604kumamoto.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "_experimental_landformclassification20160414",
+      "title": "地形分類",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/experimental_landformclassification/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 16,
+      "maxNativeZoom": 14,
+      "html": "ズーム14～16で表示します。<br>数値地図25000（土地条件）及び脆弱地形データより作成したデータです。"
+    }
+  ]
+}

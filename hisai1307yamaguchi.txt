@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "hisai1307yamaguchi",
+      "title": "被災箇所（7/31）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1307yamaguchi/hisai1307yamaguchi.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">山口地方「須佐地区」 - 被災箇所(7/31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

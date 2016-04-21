@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_5_1007chugoku",
+      "title": "表層崩壊（5）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_5.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

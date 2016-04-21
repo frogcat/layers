@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "dosekidosha1109typhoon12",
+      "title": "土石流・土砂崩れ",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/676.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1109typhoon12/doseki-dosha.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">情報収集 - 土石流・土砂崩れ</div><div class=\"gsi_layerinfo_kaisetu\">一部不明瞭な情報を含みます。また、記号はおおよその位置を示しています。<br/><br/><a href='http://saigai.gsi.go.jp/2011typhoon12/pdf/info.xls' target='_blank'>一覧表をダウンロード（Excel形式）</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

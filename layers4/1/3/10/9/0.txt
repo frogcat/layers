@@ -1,0 +1,67 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "151209_nishinoshima_naname",
+      "title": "2015/12/9",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/151209_nishinoshima_naname/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真-2015.12.9</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1311nishinoshima4",
+      "title": "2014/12/4",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/naname1311nishinoshima4.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真</div><div class=\"gsi_layerinfo_subtitle\">(2014.12.4)</div><div class=\"gsi_layerinfo_kaisetu\"></div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1311nishinoshima3",
+      "title": "2014/7/4（無人航空機（UAV）撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/naname1311nishinoshima3.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真</div><div class=\"gsi_layerinfo_subtitle\">(2014.7.4(無人航空機(UAV)撮影))</div><div class=\"gsi_layerinfo_kaisetu\">協力：（株）エアフォートサービス</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1311nishinoshima2",
+      "title": "2013/11/21（海上保安庁）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/naname1311nishinoshima2.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真</div><div class=\"gsi_layerinfo_subtitle\">(2013.11.21（海上保安庁）)</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1311nishinoshima",
+      "title": "2013/11/20（海上保安庁）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/naname1311nishinoshima.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">斜め写真</div><div class=\"gsi_layerinfo_subtitle\">(2013.11.20（海上保安庁）)</div>"
+    }
+  ]
+}

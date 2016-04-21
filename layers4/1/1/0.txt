@@ -1,0 +1,60 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "平成28年熊本地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成26年長野県北部を震源とする地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成23年東北地方太平洋沖地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成20年岩手県沿岸北部を震源とする地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成20年岩手・宮城内陸地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成19年新潟県中越沖地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成19年能登半島地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成16年新潟県中越地震",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    }
+  ]
+}

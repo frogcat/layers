@@ -1,0 +1,135 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "men201512",
+      "title": "12月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201512.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201511",
+      "title": "11月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201511.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201510",
+      "title": "10月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201510.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201509",
+      "title": "9月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201509.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201508",
+      "title": "8月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201508.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201507",
+      "title": "7月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201507.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201506",
+      "title": "6月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201506.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201505",
+      "title": "5月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201505.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201503",
+      "title": "3月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201503.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201502",
+      "title": "2月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201502.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "men201501",
+      "title": "1月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2015/201501.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    }
+  ]
+}

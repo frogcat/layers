@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_0416dol7",
+      "title": "別府地区正射画像（4/16撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0416dol7/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 10,
+      "maxZoom": 18,
+      "html": "<div>▲を押すと透過率が上がります。<br>▼を押すと透過率が下がります。</div>"
+    }
+  ]
+}

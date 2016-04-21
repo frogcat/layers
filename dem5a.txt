@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "dem5a",
+      "title": "標高表示用データ5a",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/dem5a/{z}/{x}/{y}.txt",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 15,
+      "maxZoom": 15,
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "山口地方「須佐地区」",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "島根地方「津和野地区」",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "山口地方「阿東地区」",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    }
+  ]
+}

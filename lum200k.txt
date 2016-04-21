@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "lum200k",
+      "title": "20万分１土地利用図（1982～1983年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum200k/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 11,
+      "maxZoom": 14,
+      "legendUrl": "http://cyberjapan.jp/legend/lum200k_legend.jpg",
+      "html": "<div class=\"gsi_layerinfo_title\">20万分１土地利用図（1982～1983年）</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-200k.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

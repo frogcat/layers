@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "vbm_22izuoshima_chocolate",
+      "title": "火山基本図（透過）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vbm_22izuoshima_chocolate/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 8,
+      "legendUrl": "http://cyberjapan.jp/legend/legend_vbm22izuoshima.png",
+      "html": "<div class=\"gsi_layerinfo_title\">平成25年台風第26・27号の大雨 - 火山基本図（透過）</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www1.gsi.go.jp/geowww/Volcano/volcano.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

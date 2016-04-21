@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140704dd5",
+      "title": "西之島付近噴火活動 標高タイル（2014年7月4日、UAVを用いて作成）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140704dd5/{z}/{x}/{y}.txt",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 15,
+      "maxZoom": 15,
+      "html": ""
+    }
+  ]
+}

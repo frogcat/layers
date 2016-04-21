@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "dem",
+      "title": "標高タイル",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/dem/{z}/{x}/{y}.txt",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "maxZoom": 14,
+      "html": ""
+    }
+  ]
+}

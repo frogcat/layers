@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "suijun",
+      "title": "水準",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/top_1_suijun.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">現在観測している地区 - 水準</div><div class=\"gsi_layerinfo_kaisetu\"><b>測量方法</b><br/><img src='http://portal.cyberjapan.jp/sys/v4/symbols/097.png' alt='測距' width='15' height='15'>　測距<span style='vertical-align:super;font-size:0.8em;'>※1</span><br/><img src='http://www.gsi.go.jp/common/000079136.bmp' alt='水準' width='15' height='15'>　水準<span style='vertical-align:super;font-size:0.8em;'>※2</span><br/><img src='http://portal.cyberjapan.jp/sys/v4/symbols/099.png' alt='重力' width='15' height='15'>　重力<span style='vertical-align:super;font-size:0.8em;'>※3</span><br/><p style='text-indent:-2em;padding-left:2em;'><img src='http://portal.cyberjapan.jp/sys/v4/symbols/105.png' alt='火山' width='15' height='15'>　火山（水準、GNSS<span style='vertical-align:super;font-size:0.8em;'>※4</span>、重力、地磁気<span style='vertical-align:super;font-size:0.8em;'>※5</span>、干渉SAR<span style='vertical-align:super;font-size:0.8em;'>※6</span>）</p><br/>地震・火山噴火の調査研究のために地殻変動等の監視を強化している地区。<br/>その地域の特徴を考慮した測量手法で観測。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

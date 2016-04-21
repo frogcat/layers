@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "shingen_0807iwate",
+      "title": "震源",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0807iwate/shingen.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

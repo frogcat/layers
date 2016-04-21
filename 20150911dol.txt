@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20150911dol",
+      "title": "UAV撮影による正射画像（2015/9/8,11,12）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20150911dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 14,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": "無人航空機(UAV)撮影による正射画像（2015/9/8,11,12撮影）<br>雲の影響により地上が見えにくい場合があります。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "seisyazukaku1310typhoon27",
+      "title": "正射画像_図郭版（10/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1310typhoon26/seisyazukaku1310typhoon27.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成25年台風第26・27号の大雨 - 正射画像_図郭版（10/28）</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "fgd_2500_area",
+      "title": "縮尺2500分1相当以上の概ねの範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_2500_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 4,
+      "maxZoom": 12,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(縮尺2500分1相当以上の概ねの範囲)</div><div class=\"gsi_layerinfo_kaisetu\"><div></div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    },
+    {
+      "type": "Layer",
+      "id": "fgd_dem5a_area",
+      "title": "5mメッシュDEM（航空レーザー測量）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_dem5a_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(5mメッシュDEM（航空レーザー測量）)</div><div class=\"gsi_layerinfo_kaisetu\"><div>航空レーザ測量により整備した5mメッシュDEMの提供範囲</div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    },
+    {
+      "type": "Layer",
+      "id": "fgd_dem5b_area",
+      "title": "5mメッシュDEM（写真測量）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_dem5b_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(5mメッシュDEM（写真測量）)</div><div class=\"gsi_layerinfo_kaisetu\"><div>写真測量により整備した5mメッシュDEMの提供範囲</div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    },
+    {
+      "type": "Layer",
+      "id": "fgd_dem10a_area",
+      "title": "10mメッシュDEM（火山基本図）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_dem10a_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(10mメッシュDEM（火山基本図）)</div><div class=\"gsi_layerinfo_kaisetu\"><div>火山基本図の等高線データを基に作成した10mメッシュDEMの提供範囲</div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    }
+  ]
+}

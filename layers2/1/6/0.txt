@@ -1,0 +1,25 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "首都圏",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "中部圏",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "近畿圏",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    }
+  ]
+}

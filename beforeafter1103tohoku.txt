@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "beforeafter1103tohoku",
+      "title": "新旧写真比較",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/180.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/beforeafter.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">空中写真 - 新旧写真比較</div><div class=\"gsi_layerinfo_kaisetu\">photoURLのリンクをクリックすると、別画面で、新旧画像を比較することができます。<br/><br/>別画面において、画像中央の縦棒をドラッグすると、被災前後の画像をずらして見ることが出来ます。<br/><br/>別画面の上方が写真と写真の比較で、下方が地図と写真の比較です。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

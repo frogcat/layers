@@ -1,0 +1,11 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "地球地図全球版",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

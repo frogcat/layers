@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140704dol",
+      "title": "2014/7/4（無人航空機（UAV）撮影）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140704dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 8,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">正射画像 - 2014.7.4（無人航空機（UAV）撮影）</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

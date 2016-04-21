@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "airphoto3_0806tohoku",
+      "title": "空中写真（土砂災害）_駒の湯温泉上流部",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0806tohoku/airphoto3.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

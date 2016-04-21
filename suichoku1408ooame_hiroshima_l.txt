@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "suichoku1408ooame_hiroshima_l",
+      "title": "垂直写真（8/28）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/081.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1408ooame/suichoku1408ooame_hiroshima_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 垂直写真(8/28)</div><div class=\"gsi_layerinfo_kaisetu\">一部、雲の障害があります</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

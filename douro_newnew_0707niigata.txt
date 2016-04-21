@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "douro_newnew_0707niigata",
+      "title": "災害状況図_道路・鉄道・河川堤防の被害箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/douro_newnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読より、損壊(陥没、亀裂、段差等)が生じている箇所を抽出。鉄道の変形も表示。緊急現地調査の情報を加え、表示。なお、高速自動車道・国道などの主要道路の被害箇所は、補修作業により軽微な被害の判読が可能となった。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

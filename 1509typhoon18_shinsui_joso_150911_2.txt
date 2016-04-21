@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "1509typhoon18_shinsui_joso_150911_2",
+      "title": "常総地区の推定浸水範囲（2015/9/10 18:00時点）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/1509typhoon18_shinsui_joso_150911_2/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 16,
+      "maxNativeZoom": 2,
+      "legendUrl": "",
+      "html": "この推定浸水範囲は、関東地方整備局防災ヘリ撮影画像（9月10日14:50）及び報道情報（9月10日18:00時点）を基に浸水した範囲を推定したものですので、実際に浸水のあった地域と異なっている部分があります。<br>推定浸水範囲は、面積約21平方キロメートル、東西約4キロメートル、南北約9キロメートル<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

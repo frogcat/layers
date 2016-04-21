@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20101020airphoto1010amami",
+      "title": "空中写真_2010/10/26撮影",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1010amami/20101020airphoto.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

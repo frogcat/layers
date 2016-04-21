@@ -1,0 +1,81 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "正射画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "（上載）地形判読図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "立体図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "正射画像_図郭版",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "衛星画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "垂直写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "飛行経路",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "海岸線（暫定）",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "斜め写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "9/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "簡易動画",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "10/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "関連情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "11/0.txt"
+    }
+  ]
+}

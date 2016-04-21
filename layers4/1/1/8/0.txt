@@ -1,0 +1,112 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "dosya_0410niigata",
+      "title": "斜面崩壊地",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/dosya.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真により判読した斜面崩壊地。<br>地すべり、表層崩壊、岩盤崩落などが含まれます。<br>崩壊地と堆積地を一括して表示しています。<br>空中写真で判読できない小規模な斜面崩壊地が表示されていない場合があります。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "sundan_0410niigata",
+      "title": "道路・鉄道の崩壊・亀裂・陥没等",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/sundan.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真により判読した道路・鉄道の崩壊・亀裂・陥没等の発生地。 崩落した土砂により埋没したものが含まれます。 空中写真で判読できない小規模な崩壊・亀裂・陥没等が表示されていない場合があります。 また一部地域については、現地緊急調査の結果も反映されています。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "tansui2_0410niigata",
+      "title": "河道閉塞（天然ダムの形成）に伴う湛水域（11/8）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/tansui2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "11月8日(月)撮影の空中写真を用いて、崩れた土砂によって、流路が埋まり、上流側が湛水した範囲を判読したものです。<br>●使用した空中写真:(株)オリス・(株)ナカノアイシステム共同体撮影の1/10,000空中写真(2004/11/8撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "tansui_0410niigata",
+      "title": "河道閉塞（天然ダムの形成）に伴う湛水域（10/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/tansui.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "10月28日(木)撮影の空中写真を用いて、崩れた土砂によって、流路が埋まり、上流側が湛水した範囲を判読したものです。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/28撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ryuiki_0410niigata",
+      "title": "流域界（山古志村付近）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/ryuiki.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "山古志村付近の河川の流域界です。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "airphoto_area2_0410niigata",
+      "title": "調査範囲（11/8）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/airphoto_area2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "11月８日現在の河道閉塞(天然ダムの形成)に伴う湛水域を判読した範囲です。<br>●使用した空中写真:(株)オリス・(株)ナカノアイシステム共同体撮影の1/10,000空中写真(2004/11/8撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "airphoto_area_0410niigata",
+      "title": "調査範囲（10/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/airphoto_area.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "斜面崩壊地、道路・鉄道の崩壊・亀裂・陥没等、10月28日現在の河道閉塞(天然ダムの形成)に伴う湛水域を判読した範囲です。<br>●使用した空中写真: 国土地理院撮影の1/10,000空中写真(2004/10/28撮影)、 国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "M2_0410niigata",
+      "title": "震源",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/M2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "気象庁発表のデータ。 震度５弱以上を記録したものを表示しています。 (10/23/17:56～11/10/5:00間のデータ)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "nagaoka_0410niigata",
+      "title": "地上写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/nagaoka.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "現地緊急調査時に、撮影した現場の写真<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

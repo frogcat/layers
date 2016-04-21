@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "2014_s-ortho_sakurajima",
+      "title": "過去の簡易空中写真（2014年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/2014_s-ortho_sakurajima/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

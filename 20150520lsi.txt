@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20150520lsi",
+      "title": "2015/5/20",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20150520lsi/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 7,
+      "maxZoom": 16,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">衛星画像</div><div class=\"gsi_layerinfo_subtitle\">(2015.5.20)</div><div class=\"gsi_layerinfo_kaisetu\">Landsat8画像（GSI, TSIC, GEO Grid/AIST)</div>"
+    }
+  ]
+}

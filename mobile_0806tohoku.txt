@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "mobile_0806tohoku",
+      "title": "現地緊急調査_被害状況（速報）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0806tohoku/mobile.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

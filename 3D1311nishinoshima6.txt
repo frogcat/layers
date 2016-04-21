@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "3D1311nishinoshima6",
+      "title": "2015/3/1",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/080.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/3D1311nishinoshima8.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">立体図 - 2015.3.1</div><div class=\"gsi_layerinfo_kaisetu\"></div><div style=\"font-size:13px; margin: 8px\" id=\"plugin_library_legend2\">(c)国土地理院</div>"
+    }
+  ]
+}

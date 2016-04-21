@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "160303_nishinoshima_coastline",
+      "title": "2016/3/3",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/160303_nishinoshima_coastline/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 2,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">海岸線（暫定）-2016.3.3</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

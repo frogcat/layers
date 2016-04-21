@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "現在観測している地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "過去に観測していた地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    }
+  ]
+}

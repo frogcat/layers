@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "men201603",
+      "title": "3月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/men2016/201603.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

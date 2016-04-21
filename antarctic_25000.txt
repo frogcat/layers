@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "antarctic_25000",
+      "title": "1:25,000　南極地形図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic25000.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "satueihani_0707niigata",
+      "title": "災害状況図_写真判読範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/satueihani.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "災害状況図は、<br>国土地理院撮影カラー空中写真(7月19日撮影、縮尺1/10,000)<br>国際航業(株)･(株)パスコ撮影カラー空中写真(7月18日撮影、縮尺1/6,000、一部の地域を使用)\n<br>国土地理院緊急現地調査結果(7月17日・18日実施)<br>に基づいて作成したもので、現在の状況とは異なっています。また、全ての災害情報は網羅していません。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

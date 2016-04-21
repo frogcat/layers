@@ -1,0 +1,88 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "shamen1207kyushu",
+      "title": "斜面崩壊（7/25）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/453.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/shamenari.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 斜面崩壊(7/25)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1207kyushu",
+      "title": "斜め写真（7/15）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/naname.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 斜め写真(7/15)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "teibou1207kyushu",
+      "title": "堤防決壊（7/15）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/454.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/teibou.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 堤防決壊(7/15)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "essui1207kyushu",
+      "title": "越水（7/17、7/25）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/452.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/essuiari.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 越水(7/17、7/25)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ortho3map1207kyushu",
+      "title": "正射画像/正射写真地図（7/25）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/ortho3_map.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 正射画像/正射写真地図(7/25)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "ortho2map1207kyushu",
+      "title": "正射画像/正射写真地図（7/17）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/ortho2_map.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 正射画像/正射写真地図(7/17)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "orthomap1207kyushu",
+      "title": "正射画像/正射写真地図（7/15）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/ortho_map.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 正射画像/正射写真地図(7/15)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

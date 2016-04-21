@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "sar2j2_0806tohoku",
+      "title": "SAR干渉画像_南行軌道",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0806tohoku/sar2j2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

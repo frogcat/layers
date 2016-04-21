@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "M2_0410niigata",
+      "title": "震源",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/M2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "気象庁発表のデータ。 震度５弱以上を記録したものを表示しています。 (10/23/17:56～11/10/5:00間のデータ)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "ort",
+      "title": "写真",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#ort",
+      "errorTileUrl": "./image/map/no-data-ort.png",
+      "html": ""
+    }
+  ]
+}

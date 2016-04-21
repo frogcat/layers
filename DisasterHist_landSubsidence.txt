@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "DisasterHist_landSubsidence",
+      "title": "災害履歴図（地盤沈下）",
+      "iconUrl": "",
+      "url": "http://nrb-www.mlit.go.jp/kokjo/inspect/tile/landclassification/land_history/DisasterHist_landSubsidence/landSubsidence/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 16,
+      "legendUrl": "",
+      "html": "国土交通省国土政策局が提供する土地分類基本調査（土地履歴調査）で整備した調査成果図です（ズームレベル13～16で表示されます）。<br>\nご利用にあたっては<a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/landclassification/land/land_history_2011/index.php\">『土地履歴調査成果公開サイト』</a>をご確認ください。<br>\n<div class=\"gsi_layerinfo_title\">災害履歴図（地盤沈下）（<a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/tile/legend/DisasterHist_landSubsidence/災害履歴（地盤沈下）.pdf\">凡例を表示</a>）</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/landclassification/land/land_history_2011/index.php\">解説</a>\n&nbsp;<a target=\"_blank\" href=\"http://nlftp.mlit.go.jp/kokjo/inspect/tile/legend/DisasterHist_landSubsidence/landSubsidence.html\">災害履歴図の詳細を表示</a>\n</div>\n<div class=\"gsi_layerinfo_copy\">(c)国土政策局</div>"
+    }
+  ]
+}

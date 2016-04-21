@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "airphoto_area_0410niigata",
+      "title": "調査範囲（10/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/airphoto_area.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "斜面崩壊地、道路・鉄道の崩壊・亀裂・陥没等、10月28日現在の河道閉塞(天然ダムの形成)に伴う湛水域を判読した範囲です。<br>●使用した空中写真: 国土地理院撮影の1/10,000空中写真(2004/10/28撮影)、 国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

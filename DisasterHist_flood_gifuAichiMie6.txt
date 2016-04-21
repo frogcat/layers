@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "DisasterHist_flood_gifuAichiMie6",
+      "title": "中部地区（豊田・名古屋北部・名古屋南部）　昭和34年以後",
+      "iconUrl": "",
+      "url": "http://nrb-www.mlit.go.jp/kokjo/inspect/tile/landclassification/land_history/DisasterHist_flood/gifuAichiMie6/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 16,
+      "legendUrl": "",
+      "html": "国土交通省国土政策局が提供する土地分類基本調査（土地履歴調査）で整備した調査成果図です（ズームレベル13～16で表示されます）。<br>\nご利用にあたっては<a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/landclassification/land/land_history_2011/index.php\">『土地履歴調査成果公開サイト』</a>をご確認ください。<br>\n<div class=\"gsi_layerinfo_title\">災害履歴（水害）中部地区（豊田・名古屋北部・名古屋南部）昭和34年以後（<a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/tile/legend/DisasterHist_flood/災害履歴_水害_中部地区（豊田・名古屋北部・名古屋南部）_昭和34年以後.pdf\">凡例を表示</a>）</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://nrb-www.mlit.go.jp/kokjo/inspect/landclassification/land/land_history_2011/index.php\">解説</a>&nbsp;<a target=\"_blank\" href=\"http://nlftp.mlit.go.jp/kokjo/inspect/tile/legend/DisasterHist_flood/DisasterHist_flood_gifuAichiMie6.html\">災害履歴図の詳細を表示</a></div><div class=\"gsi_layerinfo_copy\">(c)国土政策局</div>"
+    }
+  ]
+}

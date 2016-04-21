@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "tenkei_kasen",
+      "title": "河川の作用による地形",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/tenkei_kasen/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 13,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">日本の典型地形（河川の作用による地形）</div><div>詳細は<a target=\"_blank\" href=\"http://www.gsi.go.jp/kikaku/tenkei_kasen.html\">こちら</a></div><br>地形項目：<br>峡谷、懸谷、滝及び滝壺、ナメ・淵、甌穴群（ポットホール）、土柱、穿入蛇行、還流丘陵、河川争奪地形、風隙、谷中分水界、堰止湖、湖岸段丘、谷底平野、谷戸（谷津・谷地）、埋積谷、河岸段丘及び段丘崖、 瀞、瀬、扇状地、沖積錐、合流扇状地、網状流、天井川、水無川、湧泉・湧泉群、自然河川、自由蛇行（自然蛇行）、自然堤防、旧河道、後背湿地、河畔砂丘、三日月湖、落堀（押堀）、三角州、延長川、マッドランプ、残丘<br><br>※本データは平成7～11年に実施した「日本の典型的地形に関する調査」の成果を基に作成しています。<br>※一部の地形の説明には広辞苑（「広辞苑（第六版）平成20年1月、岩波書店」）を参考にしています。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

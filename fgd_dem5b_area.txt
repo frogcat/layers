@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "fgd_dem5b_area",
+      "title": "5mメッシュDEM（写真測量）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_dem5b_area/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">基盤地図情報の提供地域</div><div class=\"gsi_layerinfo_subtitle\">(5mメッシュDEM（写真測量）)</div><div class=\"gsi_layerinfo_kaisetu\"><div>写真測量により整備した5mメッシュDEMの提供範囲</div><a target=\"_blank\" href=\"http://www.gsi.go.jp/kiban/index.html\">基盤地図情報サイト</a></div>"
+    }
+  ]
+}

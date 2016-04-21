@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "tansui_0410niigata",
+      "title": "河道閉塞（天然ダムの形成）に伴う湛水域（10/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/tansui.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "10月28日(木)撮影の空中写真を用いて、崩れた土砂によって、流路が埋まり、上流側が湛水した範囲を判読したものです。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/28撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

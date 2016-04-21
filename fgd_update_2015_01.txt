@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "fgd_update_2015_01",
+      "title": "1月更新",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2015_01/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 4,
+      "maxZoom": 12,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

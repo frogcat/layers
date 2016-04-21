@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "lsi1311nishinoshima",
+      "title": "2013/12/24",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20131224lsi/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 13,
+      "maxZoom": 16,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">衛星画像</div><div class=\"gsi_layerinfo_subtitle\">(2013.12.24)</div><div class=\"gsi_layerinfo_kaisetu\">Landsat8画像（GSI, TSIC, GEO Grid/AIST)</div>"
+    }
+  ]
+}

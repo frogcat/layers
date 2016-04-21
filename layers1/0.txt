@@ -1,0 +1,11 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "空中写真・衛星画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

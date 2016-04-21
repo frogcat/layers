@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "008airphoto1103tohoku",
+      "title": "宮城県　石巻市周辺（3/12撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/081.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/miyagi_ishinomaki.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">空中写真 - 宮城県　石巻市周辺（3月12日撮影）</div><div class=\"gsi_layerinfo_kaisetu\">photoURLのリンクをクリックすると、空中写真が見られます。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

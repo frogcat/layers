@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "_afm20160414",
+      "title": "都市圏活断層図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/afm/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://www.gsi.go.jp/common/000084060.pdf",
+      "html": "<div class=\"gsi_layerinfo_title\">都市圏活断層図</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/bousaichiri/guidebook.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

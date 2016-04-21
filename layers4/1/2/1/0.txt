@@ -1,0 +1,32 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "宮城県大崎地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "茨城県常総・坂東地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "栃木県鹿沼・鬼怒川温泉地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "茨城県結城・古河地区",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    }
+  ]
+}

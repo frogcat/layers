@@ -1,0 +1,11 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "主題図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

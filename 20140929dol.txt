@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140929dol",
+      "title": "正射画像（2014/9/29）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140929dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 正射画像(9/29)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

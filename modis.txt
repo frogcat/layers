@@ -1,0 +1,19 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "modis",
+      "title": "世界衛星モザイク画像",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/modis/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 18,
+      "maxNativeZoom": 8,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">世界衛星モザイク画像</div><br>データソース：<br>MODIS8日間コンポジット画像<br>※MODISデータ欠損域は灰色で示しています"
+    }
+  ]
+}

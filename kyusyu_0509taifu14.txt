@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "kyusyu_0509taifu14",
+      "title": "写真判読",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0509taifu14/kyusyu.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "斜面崩壊・土石流等<br>道路・鉄道損壊等凡例　道路・鉄道損壊等<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

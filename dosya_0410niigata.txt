@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "dosya_0410niigata",
+      "title": "斜面崩壊地",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/dosya.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真により判読した斜面崩壊地。<br>地すべり、表層崩壊、岩盤崩落などが含まれます。<br>崩壊地と堆積地を一括して表示しています。<br>空中写真で判読できない小規模な斜面崩壊地が表示されていない場合があります。<br>●使用した空中写真:国土地理院撮影の1/10,000空中写真(2004/10/24撮影)、 (株)パスコ撮影の1/12,500空中写真(2004/10/24撮影)<br>●現地緊急調査:平成16年10月24日(日)～26日(火)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

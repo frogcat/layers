@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "lake2",
+      "title": "平成3年以降",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lake2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 17,
+      "legendUrl": "http://cyberjapan.jp/legend/LAKE_afterH3.png",
+      "html": "<div class=\"gsi_layerinfo_title\">湖沼図</div><div class=\"gsi_layerinfo_subtitle\">(平成3年以降)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/gsilake.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

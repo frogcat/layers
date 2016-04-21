@@ -1,0 +1,100 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20100722chosa_hani_1007chugoku",
+      "title": "判読範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_hani.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_1_1007chugoku",
+      "title": "表層崩壊（1）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_2_1007chugoku",
+      "title": "表層崩壊（2）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_3_1007chugoku",
+      "title": "表層崩壊（3）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_3.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_4_1007chugoku",
+      "title": "表層崩壊（4）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_4.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_5_1007chugoku",
+      "title": "表層崩壊（5）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_5.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_houkai_6_1007chugoku",
+      "title": "表層崩壊（6）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_houkai_6.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "20100722chosa_kumo_1007chugoku",
+      "title": "雲等の範囲",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1007chugoku/20100722chosa_kumo.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "shamen1207kyushu",
+      "title": "斜面崩壊（7/25）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/453.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1207kyushu/shamenari.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">平成24年7月九州北部豪雨 - 斜面崩壊(7/25)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

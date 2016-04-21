@@ -1,0 +1,67 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "2012年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2011年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2010年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2009年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2008年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2007年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2006年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2005年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2004年",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "9/0.txt"
+    }
+  ]
+}

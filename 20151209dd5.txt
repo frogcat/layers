@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20151209dd5",
+      "title": "西之島付近噴火活動 標高タイル（2015年12月9日）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20151209dd5/{z}/{x}/{y}.txt",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "minZoom": 15,
+      "maxZoom": 15,
+      "html": ""
+    }
+  ]
+}

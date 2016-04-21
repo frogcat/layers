@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "1509typhoon18_photo_shibuigawa_150911_1",
+      "title": "破堤箇所周辺の写真（2006年、渋井川）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/1509typhoon18_photo_shibuigawa_150911_1/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "破堤箇所周辺の写真（2006年渋井川）<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

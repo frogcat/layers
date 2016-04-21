@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "syamen_newnewnew_0707niigata",
+      "title": "災害状況図_斜面崩壊地",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/syamen_newnewnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により抽出した、斜面崩壊や地すべりなどにより生じた地形。地肌のむき出しになった崖地部分と、崩落した土砂が移動、堆積した範囲を表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

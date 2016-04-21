@@ -1,0 +1,95 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "平成27年9月関東・東北豪雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成26年8月豪雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成26年台風第12号・第11号の大雨等",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成26年台風第8号及び梅雨前線等",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成25年台風第26号及び第27号による大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "5/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成25年台風第18号及び前線による大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "6/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成25年9月2日に発生した突風",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "7/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成25年7月17日からの大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "8/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成24年7月九州北部豪雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "9/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成23年台風第12号による大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "10/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成22年鹿児島県奄美地方における大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "11/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成22年の梅雨前線による大雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "12/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "平成17年台風第14号と前線豪雨",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "13/0.txt"
+    }
+  ]
+}

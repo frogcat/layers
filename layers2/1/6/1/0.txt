@@ -1,0 +1,95 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital2005",
+      "title": "2005年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital2005/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(2005年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital2000",
+      "title": "2000年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital2000/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(2000年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital1994",
+      "title": "1994年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1994/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(1994年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital1989",
+      "title": "1989年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1989/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(1989年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital1984",
+      "title": "1984年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1984/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(1984年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital1979",
+      "title": "1979年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1979/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(1979年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_capital1974",
+      "title": "1974年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1974/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">首都圏</div><div class=\"gsi_layerinfo_subtitle\">(1974年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

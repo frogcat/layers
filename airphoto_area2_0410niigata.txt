@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "airphoto_area2_0410niigata",
+      "title": "調査範囲（11/8）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0410niigata/airphoto_area2.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "11月８日現在の河道閉塞(天然ダムの形成)に伴う湛水域を判読した範囲です。<br>●使用した空中写真:(株)オリス・(株)ナカノアイシステム共同体撮影の1/10,000空中写真(2004/11/8撮影)<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

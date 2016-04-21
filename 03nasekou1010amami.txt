@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "03nasekou1010amami",
+      "title": "正射写真_奄美市名瀬港周辺",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1010amami/03nasekou.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

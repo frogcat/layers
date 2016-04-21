@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "antarctic_0",
+      "title": "南極の地理空間情報データ",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/antarctic.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "html": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "jikizu_chijiki_d",
+      "title": "偏角図/偏角一覧図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/jikizu_chijikid/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 4,
+      "maxZoom": 13,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">磁気図2010.0年値 - 偏角図/偏角一覧図</div><div class=\"gsi_layerinfo_kaisetu\">2010年1月1日における、偏角の分布を図に表したものです。<br/>拡大すると2次メッシュに対応した偏角値（偏角一覧図）が確認できます。<br/><br/>＜凡例＞<br/>黒線 ： 1度ごと<br/>白線 ： 12分ごと</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

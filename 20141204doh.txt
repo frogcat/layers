@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20141204doh",
+      "title": "2014/12/4",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20141204doh/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">2014.12.4</div><div class=\"gsi_layerinfo_kaisetu\"></div><div style=\"font-size:13px; margin: 8px\" id=\"plugin_library_legend2\">(c)国土地理院</div>"
+    }
+  ]
+}

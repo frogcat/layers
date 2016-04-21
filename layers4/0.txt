@@ -1,0 +1,11 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "災害対応",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20160414kumamoto_faultmodel",
+      "title": "震源断層モデル<br>北側：4/16（M7.3）南側：4/14（M6.5）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_faultmodel/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "minZoom": 3,
+      "maxZoom": 11,
+      "html": "電子基準点（GNSS連続観測点）で観測された地殻変動から推定した震源断層モデルです。<br>4月16日（M7.3）の<a target=\"_blank\" href=\"http://www.gsi.go.jp/common/000139798.pdf\">解説</a><br>4月14日（M6.5）の<a target=\"_blank\" href=\"http://www.gsi.go.jp/common/000139588.pdf\">解説</a>"
+    }
+  ]
+}

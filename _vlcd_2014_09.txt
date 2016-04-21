@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "_vlcd_2014_09",
+      "title": "火山土地条件図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vlcd/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 火山土地条件図</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

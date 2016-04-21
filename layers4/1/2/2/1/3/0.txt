@@ -1,0 +1,79 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20140831dol",
+      "title": "正射画像（8/30・31）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140831dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像(8/30・31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140830dol",
+      "title": "正射画像（8/30）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140830dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像(8/30)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140828dol",
+      "title": "正射画像（8/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140828dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像(8/28)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "seisyazukaku1408ooame_hiroshima3_l",
+      "title": "正射画像_図郭版（8/30・31）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1408ooame/seisyazukaku1408ooame_hiroshima3_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像_図郭版(8/30・31)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "seisyazukaku1408ooame_hiroshima2_l",
+      "title": "正射画像_図郭版（8/30）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1408ooame/seisyazukaku1408ooame_hiroshima2_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像_図郭版(8/30)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "seisyazukaku1408ooame_hiroshima_l",
+      "title": "正射画像_図郭版（8/28）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1408ooame/seisyazukaku1408ooame_hiroshima_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">広島市内 - 正射画像_図郭版(8/28)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

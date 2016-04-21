@@ -1,0 +1,23 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "SAR解析結果",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "http://insarmap.gsi.go.jp/layers_txt/layers_alos2_vol_asosan.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "2013_s-ortho_asosan",
+      "title": "過去の簡易空中写真（2013年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

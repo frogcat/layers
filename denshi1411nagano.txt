@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "denshi1411nagano",
+      "title": "電子基準点（点名:白馬）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/476.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1411nagano/denshi1411nagano.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">長野県北部地震 - 電子基準点(点名:白馬)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/WNEW/PRESS-RELEASE/chikakukansi_nagano20141122.html\">報道発表資料（平成26年（2014年）11月22日22時08分頃の長野県北部の地震に伴う地殻変動について）</a></div>"
+    }
+  ]
+}

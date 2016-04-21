@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "015airphoto1103tohoku",
+      "title": "茨城県　沿岸南部（3/27撮影）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/099.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/ibaraki0327.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">空中写真 - 茨城県　沿岸南部（3月27日撮影）</div><div class=\"gsi_layerinfo_kaisetu\">photoURLのリンクをクリックすると、空中写真が見られます。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>layers</title>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css" />
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<style>
+body {
+  font-family: helvetica;
+}
+
+#container {
+  margin: 20px;
+}
+
+ul {
+  margin: 0 0 0 1em;
+  padding: 0;
+  list-style: none;
+}
+
+li.close ul {
+  display: none;
+}
+
+a {
+  font-size: 9pt;
+  text-decoration: none;
+}
+
+a.unload:before {
+  content: '田 ';
+}
+
+a.layer:before {
+  content: '口 ';
+}
+
+li a.loaded:before {
+  content: '日 ';
+}
+
+li.close a:before {
+  content: '田 ';
+}
+</style>
+<script>
+  $(function() {
+
+    $("a").addClass("unload");
+
+    $("#container").on("click", "a.unload", function() {
+      var ul = $("<ul/>").appendTo($(this).closest("li"));
+      var url = $(this).attr("href");
+      $(this).removeClass("unload").addClass("loaded");
+      $.getJSON(url).then(function(json) {
+        json.layers.forEach(function(layer) {
+          var a = $("<a/>").text(layer.title || layer.id);
+          if (layer.id) {
+            a.attr({
+              "href" : "http://frogcat.github.io/layers/" + layer.id + ".txt",
+              "class" : "layer",
+              "target" : "_blank",
+              "title" : JSON.stringify(layer, null, "  ")
+            });
+          } else if (layer.src) {
+            a.attr({
+              "href" : url.replace("0.txt", layer.src),
+              "class" : "unload"
+            });
+          }
+          ul.append($("<li/>").append(a));
+        });
+      });
+      return false;
+    });
+
+    $("#container").on("click", "a.loaded", function() {
+      $(this).closest("li").toggleClass("close");
+      return false;
+    });
+  });
+</script>
+</head>
+<body>
+  <div id="container">
+
+    <ul>
+      <li><a href="http://frogcat.github.io/layers/layers0/0.txt">#0</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers1/0.txt">#1</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers2/0.txt">#2</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers3/0.txt">#3</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers4/0.txt">#4</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers5/0.txt">#5</a></li>
+      <li><a href="http://frogcat.github.io/layers/layers_experimental/0.txt">#exp</a></li>
+    </ul>
+
+  </div>
+</body>
+</html>
+

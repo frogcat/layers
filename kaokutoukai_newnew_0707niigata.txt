@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "kaokutoukai_newnew_0707niigata",
+      "title": "災害状況図_建物の倒壊箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/kaokutoukai_newnew.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により、建物の倒壊が明瞭に確認された箇所。倒壊箇所は、大まかに表示したも ので個々の建物を示していない。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

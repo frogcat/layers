@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "std",
+      "title": "標準地図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+      "errorTileUrl": "./image/map/no-data-std.png",
+      "html": ""
+    }
+  ]
+}

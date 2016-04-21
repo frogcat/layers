@@ -1,0 +1,95 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki2008",
+      "title": "2008年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki2008/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(2008年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki2001",
+      "title": "2001年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki2001/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(2001年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki1996",
+      "title": "1996年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1996/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(1996年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki1991",
+      "title": "1991年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1991/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(1991年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki1985",
+      "title": "1985年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1985/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(1985年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki1979",
+      "title": "1979年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1979/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(1979年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "lum4bl_kinki1974",
+      "title": "1974年",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1974/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "http://cyberjapan.jp/legend/takuchi_hanrei.png",
+      "html": "<div class=\"gsi_layerinfo_title\">近畿圏</div><div class=\"gsi_layerinfo_subtitle\">(1974年)</div><div class=\"gsi_layerinfo_kaisetu\"><a target=\"_blank\" href=\"http://www.gsi.go.jp/kankyochiri/lum-takudo.html\">解説</a></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

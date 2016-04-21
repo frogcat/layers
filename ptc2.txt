@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "ptc2",
+      "title": "植生(樹木被覆率)",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/gmld_ptc2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 7,
+      "legendUrl": "http://cyberjapan.jp/legend/Legend_PTC.pdf",
+      "html": "<div class=\"gsi_layerinfo_title\">植生(樹木被覆率)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院、千葉大学、地球地図国際運営委員会、協働機関</div>"
+    }
+  ]
+}

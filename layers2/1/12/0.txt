@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "電子国土基本図",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "基盤地図情報",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    }
+  ]
+}

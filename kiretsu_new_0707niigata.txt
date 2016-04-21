@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "kiretsu_new_0707niigata",
+      "title": "災害状況図_切土地・盛土地の被害箇所",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/0707niigata/kiretsu_new.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "空中写真判読により、亀裂、崩壊が生じている箇所を抽出。緊急現地調査の情報を加え、表示。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

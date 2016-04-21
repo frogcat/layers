@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "digelevmap1103tohoku",
+      "title": "デジタル標高図",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/086.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1103tohoku/digelevmap.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">空中写真 - デジタル標高図</div><div class=\"gsi_layerinfo_kaisetu\">photoURLのリンクをクリックすると、空中写真が見られます。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

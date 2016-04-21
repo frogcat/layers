@@ -1,0 +1,144 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "SAR解析結果",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "http://insarmap.gsi.go.jp/layers_txt/layers_alos2_vol_ontakesan.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "正射画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1409ontake2_l",
+      "title": "斜め写真（2014/9/29）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1409ontake/naname1409ontake2_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 斜め写真(9/29)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "naname1409ontake1_l",
+      "title": "斜め写真（2014/9/28）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1409ontake/naname1409ontake1_l.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 斜め写真(9/28)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140930dol",
+      "title": "航空機SAR画像（2014/9/30）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140930dol/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 航空機SAR画像(9/30)</div><div class=\"gsi_layerinfo_kaisetu\">航空機SAR画像(9/30)のレーダー照射方向は南西から北東方向</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140929dol2",
+      "title": "航空機SAR画像（2014/9/29）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140929dol2/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 10,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 航空機SAR画像(9/29)</div><div class=\"gsi_layerinfo_kaisetu\">航空機SAR画像(9/29)のレーダー照射方向は南から北方向</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140929d_mag_ontake",
+      "title": "衛星SAR強度画像（2014/9/29）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140929d_mag_ontake/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 衛星SAR強度画像(9/29)</div><div class=\"gsi_layerinfo_kaisetu\">衛星:ALOS-2<br/>軌道方向:北行(A)<br/>観測モード:高分解能(3m)<br/>入射角:53°<br/>偏波:HH<br/>原初データ所有:JAXA<br/>本成果は、火山噴火予知連絡会衛星解析グループの活動による</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140818d_mag_ontake",
+      "title": "衛星SAR強度画像（2014/8/18）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140818d_mag_ontake/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 衛星SAR強度画像(8/18)</div><div class=\"gsi_layerinfo_kaisetu\">衛星:ALOS-2<br/>軌道方向:北行(A)<br/>観測モード:高分解能(3m)<br/>入射角:53°<br/>偏波:HH<br/>原初データ所有:JAXA<br/>本成果は、火山噴火予知連絡会衛星解析グループの活動による</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "sar1409ontake",
+      "title": "推定火口（2014/9/30暫定版：航空機SAR画像判読）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1409ontake_l/sar1409ontake.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 推定火口(9/30暫定版：航空機SAR画像判読)</div><div class=\"gsi_layerinfo_kaisetu\">凡例　赤：火口　黄色：推定される火口</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "_vbm_2014_09",
+      "title": "火山基本図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vbm/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 17,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 火山基本図</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20140927d_vlcd_t_ontake",
+      "title": "火山基本図（透過）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20140927d_vlcd_t_ontake/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 火山基本図(透過)</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "_vlcd_2014_09",
+      "title": "火山土地条件図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/vlcd/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "maxZoom": 16,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">御嶽山噴火活動 - 火山土地条件図</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

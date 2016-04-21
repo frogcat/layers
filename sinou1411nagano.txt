@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "sinou1411nagano",
+      "title": "震央",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/092.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1411nagano/sinou1411nagano.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">長野県北部地震 - 震央</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "tenkei_chishitsu",
+      "title": "地質を反映した地形",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/tenkei_chishitsu/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 2,
+      "maxZoom": 13,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">日本の典型地形（地質を反映した地形）</div><div>詳細は<a target=\"_blank\" href=\"http://www.gsi.go.jp/kikaku/tenkei_chishitsu.html\">こちら</a></div><br>地形項目：<br>カルスト台地、カッレンフェルト、ドリーネ、ウバーレ、ポリエ、鍾乳洞、石灰華段丘、石灰華ドーム、円錐カルスト、塔状カルスト、沈水カルスト、平頂峰（キャップロック）、メサ、ビュート、ケスタ、非対称谷、残丘、花崗岩ドーム、岩峰・岩峰群、奇岩怪石・巨石群、天然橋・岩門・石門、柱状節理・板状節理、バッドランド、地すべり地、地すべりによって生じた凹地，池、千枚田、蜂の巣状構造<br><br>※本データは平成7～11年に実施した「日本の典型的地形に関する調査」の成果を基に作成しています。<br>※一部の地形の説明には広辞苑（「広辞苑（第六版）平成20年1月、岩波書店」）を参考にしています。<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

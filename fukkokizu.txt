@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "fukkokizu",
+      "title": "災害復興計画基図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/fukkokizu/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "legendUrl": "http://cyberjapan.jp/legend/fukkokizu.pdf",
+      "html": "<div class=\"gsi_layerinfo_title\">災害復興計画基図</div><div class=\"gsi_layerinfo_kaisetu\"><div><a target=\"_blank\" href=\"http://cyberjapan.jp/legend/fukkokizu_description.pdf\">解説</a></div></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

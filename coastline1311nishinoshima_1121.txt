@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "coastline1311nishinoshima_1121",
+      "title": "2013/11/21",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1311nishinoshima/coastline1311nishinoshima_1121.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_title\">海岸線（暫定）</div><div class=\"gsi_layerinfo_subtitle\">(2013.11.21)</div><div class=\"gsi_layerinfo_kaisetu\">海上保安庁撮影の空中写真と、東大地震研究所金子隆之助教撮影の空中写真を使用。</div>"
+    }
+  ]
+}

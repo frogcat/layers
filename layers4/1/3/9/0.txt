@@ -1,0 +1,92 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "SAR解析結果",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "http://insarmap.gsi.go.jp/layers_txt/layers_alos2_vol_kuchinoerajima.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "Landsat8観測画像",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "1/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "UAVによる写真",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "2/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "UAV撮影による写真判読図（2015/9/11）",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "3/0.txt"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "UAV撮影による写真判読図（2015/7/14）",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "4/0.txt"
+    },
+    {
+      "type": "Layer",
+      "id": "naname150529kuchinoerabu",
+      "title": "斜め写真（2015/5/29）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/183.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/1505kuchinoerabu/naname150529kuchinoerabu.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "口永良部島・斜め写真（5/29）<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20150529_relief_kuchinoerabu",
+      "title": "口永良部島　陰影段彩図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20150529_relief_kuchinoerabu/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 8,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "20150529_taisakuzu_kuchinoerabu",
+      "title": "口永良部島　火山災害対策用図",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/20150529_taisakuzu_kuchinoerabu/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 8,
+      "maxZoom": 18,
+      "legendUrl": "",
+      "html": "<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "_airphoto_2015_05",
+      "title": "過去の簡易空中写真（2012/4）",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/670.png",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "minZoom": 5,
+      "legendUrl": "",
+      "html": "<a href=\"http://maps.gsi.go.jp/development/ichiran.html#airphoto\" target=\"_blank\">簡易空中写真</a><br>\n口永良部島は2012年4月撮影\n<div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+    }
+  ]
+}

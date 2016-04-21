@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "jin201505",
+      "title": "5月更新",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/084.png",
+      "url": "http://cyberjapandata.gsi.go.jp/overlay/update_std/data/jinsoku2015/201505.kml",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

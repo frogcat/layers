@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "2013_s-ortho_asosan",
+      "title": "過去の簡易空中写真（2013年）",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}

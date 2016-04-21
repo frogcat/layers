@@ -1,0 +1,11 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "SAR解析結果",
+      "iconUrl": "",
+      "toggleall": false,
+      "src": "http://insarmap.gsi.go.jp/layers_txt/layers_alos2_vol_azumayama.txt"
+    }
+  ]
+}
